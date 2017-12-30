@@ -1,11 +1,11 @@
 # GDAX Neighb Bot
 
 How to run:
-- clone the repo
+- clone the repo `git clone git@github.com:sbalanovich/gdax_app_2.git`
 - `brew install node`
 - `brew install npm`
 - `brew install yarn`
-- navigate to gdax_app_2/ folder
+- navigate to gdax_app_2/ folder `cd gdax_app_2`
 - `yarn add gdax-trading-toolkit`
 - `yarn add typescript`
 - `yarn add ts-node`

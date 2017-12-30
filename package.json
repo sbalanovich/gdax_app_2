@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gdax-trading-toolkit": "^0.2.1",
+    "mathjs": "^3.18.1",
+    "n": "^2.1.8",
+    "node": "^9.3.0",
+    "ts-node": "^4.0.2",
+    "typescript": "^2.6.2"
+  }
+}

@@ -2,7 +2,7 @@
 
 How to run:
 - clone the repo `git clone https://github.com/sbalanovich/gdax_app_2.git`
-- `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - `brew install node`
 - `brew install npm`
 - `brew install yarn`

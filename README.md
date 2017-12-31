@@ -13,6 +13,11 @@ How to run:
 - `yarn add mathjs`
 - `yarn run ts-node gdax_server.ts`
 
+Setting up Sublime:
+- Install sublime here: https://www.sublimetext.com/3
+- Install Package Control from Sublime here https://packagecontrol.io/installation
+- Do what it says here to enable the TypeScript plugin: https://packagecontrol.io/packages/TypeScript
+
 What to edit:
 - gdax_server.ts
 - Then open a pull request

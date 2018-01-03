@@ -47,7 +47,7 @@ GTT.Factories.GDAX.FeedFactory(logger, products).then((feed: GDAXFeed) => {
             lastVol = vol;
         	increment++;
             ticker = 0;
-            var action = ((232 - parseFloat(msg.origin.price))/math.std(lastTrades))*10;
+            var action = ((233 - parseFloat(msg.origin.price))/math.std(lastTrades))*10;
             if (!isNaN(action)) {
                 // if (!((dollars - action < 0) || litecoins + (action / parseFloat(msg.origin.price)))) {
                 dollars -= action;
